@@ -9,8 +9,8 @@ Operations supported by the application are insert, delete a0nd retrieve.This wi
   <li>Issue book to a particular student</li>
   <li>Taking book back from student</li>
   </ul>
-  # HOME PAGE
   
+# HOME PAGE  
   <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/home.png"></center>
 
 # RETURN BOOK
