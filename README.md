@@ -20,17 +20,17 @@ Operations supported by the application are insert, delete a0nd retrieve.This wi
   <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/signup.png"></center>
   
   # RETURN BOOK
-    <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/return%20book%20frame.png"></center>
+<center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/return%20book%20frame.png"></center>
 
 # NEW STUDENT
-  <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/new%20student%20frame.png"></center>
+<center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/new%20student%20frame.png"></center>
   
   # NEW BOOK
-    <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/new%20book%20frame.png"></center>
+  <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/new%20book%20frame.png"></center>
 
 # LOGIN
-    <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/login.png"></center>
+   <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/login.png"></center>
 
 # FORGOT PASSWORD
-    <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/forgotpassword.png"></center>
+   <center><img src="https://github.com/Hackinfinity/Library-Management-System/blob/master/Screenshots/forgotpassword.png"></center>
 
